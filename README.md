@@ -1,2 +1,2 @@
 # for_stepick
-Selenium+Pytest
+Test repository with the task of the third lesson (without venv)
